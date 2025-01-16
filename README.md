@@ -1,1 +1,1 @@
-# algoritmo de binarização e conversão  para cinza com base no exemplo usado.
+# Algoritmo de binarização e conversão  para cinza com base no exemplo usado.
